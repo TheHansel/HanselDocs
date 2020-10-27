@@ -1,4 +1,7 @@
+<!DOCTYPE html>
+<html>
 ## HanselDocs
 Dokumenty hansela (:
-<br />
- Powered by [Heroku](https://www.heroku.com)
+<br>
+ Powered by <a href=https://www.heroku.com>[Heroku](https://www.heroku.com)</a>
+</html>
